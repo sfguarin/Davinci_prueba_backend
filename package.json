@@ -1,0 +1,25 @@
+{
+  "name": "api-rest-oracle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "connect-multiparty": "^2.2.0",
+    "cors": "^2.8.5",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "json2csv": "^5.0.6",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15",
+    "oracledb": "^5.3.0"
+  }
+}
