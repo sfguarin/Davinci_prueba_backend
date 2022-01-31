@@ -1,5 +1,5 @@
-# REST API Davinci prueba
-En este repositorio se almacena el codigo de la "REST API" utilizando Nodejs como lenguaje Backend y Oracle como el gestor de Base de datos.
+# API REST Davinci prueba
+En este repositorio se almacena el codigo del "API REST" utilizando Nodejs como lenguaje Backend y Oracle como el gestor de Base de datos.
 
 Para testear el funcionamiento de la API se utilizó Postman.
 
